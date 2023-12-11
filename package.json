@@ -1,0 +1,40 @@
+{
+  "name": "@9akashnp8/eslint-config-react",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9akashnp8/eslint-config-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eslint-react",
+    "react",
+    "react-typescript"
+  ],
+  "author": "Akash NP <hello@akashnp.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9akashnp8/eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/9akashnp8/eslint-config-react#readme",
+  "dependencies": {
+    "@typescript-eslint/parser": "^6.13.2",
+    "eslint-config-prettier": "^9.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.49.0",
+    "prettier": "3.0.3",
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "@typescript-eslint/eslint-plugin": "^6.13.2"
+  }
+}
